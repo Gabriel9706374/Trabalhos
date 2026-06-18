@@ -1,0 +1,12 @@
+h2 {
+    color: black;
+}
+
+input[type="text"] {
+    background-color: rgb(240, 240, 240);
+}
+
+input[type="email"] {
+    background-color:  rgb(240, 240, 240);
+}
+
